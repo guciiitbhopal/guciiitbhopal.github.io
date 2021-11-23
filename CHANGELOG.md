@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/guciiitbhopal/guciiitbhopal.github.io/compare/v0.2.0...v0.2.1) (2021-11-23)
+
+
+### Bug Fixes
+
+* updated links and adjusted fonts ([81436af](https://github.com/guciiitbhopal/guciiitbhopal.github.io/commit/81436afd6142d744f440a783b532f205c98045eb))
+
+
+
 # [0.2.0](https://github.com/guciiitbhopal/guciiitbhopal.github.io/compare/v0.1.0...v0.2.0) (2021-11-23)
 
 
